@@ -1,0 +1,186 @@
+Act as a Senior DevOps Engineer, Linux Administrator, Shell Scripting Expert, and Technical Trainer with 15+ years of real-world production experience.
+
+I am building a professional GitHub repository for Shell Scripting from beginner to advanced level.
+
+My goal:
+- Teach absolute beginners who do not know even the word "shell"
+- Create interview-ready documentation
+- Build production-quality DevOps notes
+- Create deep conceptual understanding
+- Build a repository that becomes a complete learning resource
+- Make recruiter/interviewer/client impressed
+- Ensure readers do not need any external resource other than my repository
+
+I want TWO files generated:
+
+1. README.md
+2. notes.md
+
+--------------------------------------------------
+README.md REQUIREMENTS
+--------------------------------------------------
+
+README.md should be:
+- Professional
+- Clean
+- Structured
+- Beginner friendly
+- Interview focused
+- Real-world DevOps aligned
+- GitHub portfolio quality
+
+README.md must include:
+
+1. Introduction
+- Explain topic from beginner level
+- Explain why topic is important
+- Explain where it is used in DevOps
+
+2. Learning Objectives
+- What student will learn
+
+3. Theory Section
+- Explain concepts deeply
+- Use simple beginner-friendly language
+- Explain every technical term
+
+4. Command Explanations
+- Explain syntax
+- Explain each part of command
+- Explain outputs
+- Explain internal behavior
+
+5. Practical Examples
+- Multiple examples
+- Real-world examples
+- Production-style examples
+
+6. Script Explanations
+- Explain line by line
+- Explain internal shell behavior
+
+7. Outputs
+- Show expected outputs
+
+8. Real-Time DevOps Usage
+- Explain CI/CD usage
+- Kubernetes usage
+- Jenkins usage
+- Automation usage
+- Linux administration usage
+
+9. Common Mistakes
+- Show mistakes beginners make
+- Explain why errors happen
+- Explain fixes
+
+10. Best Practices
+- Production-level best practices
+- Naming standards
+- Security considerations
+
+11. Interview Questions
+- Beginner
+- Intermediate
+- Scenario-based
+
+12. Summary
+- Quick revision section
+
+Formatting requirements:
+- Use markdown headings
+- Use markdown tables
+- Use code blocks
+- Use professional formatting
+- Keep content easy to read
+- Make it GitHub-ready
+
+--------------------------------------------------
+notes.md REQUIREMENTS
+--------------------------------------------------
+
+notes.md should be EXTREMELY deep dive.
+
+Think like:
+- Teaching a 5th standard student
+- Explaining every single word
+- Explaining internal Linux behavior
+- Explaining why things work internally
+- Building very strong conceptual understanding
+
+notes.md must include:
+
+1. Deep Internal Concepts
+- Internal Linux behavior
+- Internal shell behavior
+- Command execution flow
+- Memory concepts
+- Parsing concepts
+
+2. Beginner-Level Explanation
+- Explain every technical term
+- Use analogies
+- Use simple real-world examples
+
+3. Internal Working
+- What happens internally
+- Step-by-step execution flow
+- How shell interprets commands
+- How variables/functions/loops work internally
+
+4. Deep Command Breakdown
+- Break every command into parts
+- Explain symbols
+- Explain operators
+- Explain syntax deeply
+
+5. Parser Behavior
+- Explain spaces
+- Quotes
+- Variable expansion
+- Escape characters
+- Environment behavior
+
+6. Mistakes and Troubleshooting
+- Real beginner mistakes
+- Internal reason for errors
+- Debugging explanation
+
+7. Real DevOps Usage
+- Production examples
+- Infrastructure examples
+- Automation examples
+- Kubernetes/Jenkins/Linux examples
+
+8. Professional Understanding
+- Difference between beginner and professional understanding
+- Production considerations
+- Security considerations
+
+9. Interview-Level Understanding
+- Deep conceptual questions
+- Internal behavior questions
+- Scenario-based explanations
+
+10. Future Learning Connections
+- Explain how current topic connects with future shell scripting concepts
+
+Writing Style:
+- Extremely detailed
+- Beginner friendly
+- Deep technical understanding
+- Professional DevOps engineering perspective
+- No shallow explanations
+- Explain WHY, HOW, and INTERNAL WORKING
+- Make notes feel like a complete shell scripting course
+
+Important:
+- Use very deep explanations
+- Use real-world DevOps examples
+- Explain internal Linux concepts
+- Explain everything from absolute zero
+- Do not skip fundamentals
+- Make repository look like production-grade documentation
+
+Current Topic:
+[ADD TODAY'S TOPIC HERE]
